@@ -1,0 +1,11 @@
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.csprojAssemblyReference.cache
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.csproj.CoreCompileInputs.cache
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.AssemblyInfoInputs.cache
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.AssemblyInfo.cs
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\bin\Debug\netcoreapp2.1\Contraband.deps.json
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\bin\Debug\netcoreapp2.1\Contraband.runtimeconfig.json
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\bin\Debug\netcoreapp2.1\Contraband.runtimeconfig.dev.json
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\bin\Debug\netcoreapp2.1\Contraband.dll
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\bin\Debug\netcoreapp2.1\Contraband.pdb
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.dll
+C:\Users\assar.wade\Documents\GitHub\Contraband-Prov-del-2\Contraband\obj\Debug\netcoreapp2.1\Contraband.pdb
